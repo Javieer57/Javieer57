@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javieer57](https://github.com/Javieer57)
 
-- 📫 How to reach me **javieer.eufracio@gmail.com**
+- 📫 How to reach me **javieer.eufracio[at]gmail.com**
 
 - ⚡ Fun fact **I'm a web developer and k-pop fanatic.**
 
