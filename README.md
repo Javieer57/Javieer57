@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate frontend developer from Mexico.</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://javieereufracio.com/)
+- 🔭 I’m currently working on [Loopstudios from FEM](https://github.com/Javieer57/FEM-loopstudios-landing-page)
 
 - 🌱 I’m currently learning **PHP & MySQL**
 
