@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP & MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Javieer57](https://github.com/Javieer57)
+- 👨‍💻 All of my projects are available at [My Portfolio] (https://javieereufracio.com/)
 
 - 📫 How to reach me **javieer.eufracio[at]gmail.com**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/javieer57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="javieer57" height="30" width="40" /></a>
-<a href="https://fb.com/javieer.eufracio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javieer.eufracio" height="30" width="40" /></a>
+<a href="https://fb.com/javieer.wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="javieer.eufracio" height="30" width="40" /></a>
 <a href="https://instagram.com/javieer_wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javieer_eufracio" height="30" width="40" /></a>
 </p>
 
