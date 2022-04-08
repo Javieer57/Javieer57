@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Advice generator app challenge hub](https://github.com/Javieer57/advice-generator-app-main)
 
-- 🌱 I’m currently learning **PHP & MySQL**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://javieereufracio.com/)
 
