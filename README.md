@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate front-end developer from Mexico.</h3>
 
-- 🔭 I’m currently working on [Advice generator app challenge hub](https://github.com/Javieer57/advice-generator-app-main)
+- 🔭 I’m currently working on [Movies App - React](https://github.com/Javieer57/react-movies-app)
 
 - 🌱 I’m currently learning **Python**
 
