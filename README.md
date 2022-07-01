@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Save the Cookie Cat (Videogame w/python)](https://github.com/Javieer57/Save_the_cookie_cat)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://javieereufracio.com/)
 
