@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate front-end developer from Mexico.</h3>
 
-- 🔭 I’m currently working on [Save the Cookie Cat (Videogame w/python)](https://github.com/Javieer57/Save_the_cookie_cat)
+- 🔭 I’m currently working on [Expenses chart component](https://github.com/Javieer57/FEM-expenses-chart-component)
 
 - 🌱 I’m currently learning **React js**
 
