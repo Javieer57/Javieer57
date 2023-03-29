@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate front-end developer from Mexico.</h3>
 
-- 🔭 I’m currently working on [Dictionary App]([https://github.com/Javieer57/quality-bakery-redesign](https://github.com/Javieer57/dictonary-app))
+- 🔭 I’m currently working on [Dictionary App](https://github.com/Javieer57/dictonary-app)
 
 - 🌱 I’m currently learning **React js**
 
