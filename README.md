@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://javieereufracio.com/)
+<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://javieereufracio.com/) -->
 
 - 📫 How to reach me **javieer.eufracio[at]gmail.com**
 
