@@ -4,11 +4,12 @@
 
 I'm a curious person, enjoy building projects with a practical mindset and learning how to write better code.
 
-🌱 Currently learning **Vitest**
+- 🌱 Currently learning **Vitest**
+- 💭 _"How this could be more accesible?"_
 
 ## Technologies
 
-![My skills: html5, css, javascript, typescript, react, next, tailwind, vite, vitest, md, sass, bootstrap, jquery, codepen, git, github, postman, figma and vscode](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,vite,vitest,md,sass,bootstrap,jquery,codepen,git,github,postman,figma,vscode&perline=12)
+![My skills: html5, css, javascript, typescript, react, next, tailwind, vite, vitest, md, sass, bootstrap, jquery, codepen, git, github, postman, figma and vscode](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,vite,vitest,md,sass,bootstrap,jquery,codepen,git,github,postman,figma,vscode&perline=10)
 
 ## Contact
 
