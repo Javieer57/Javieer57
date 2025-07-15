@@ -8,25 +8,25 @@ I'm a curious person, enjoy building projects with a practical mindset and learn
 
 ## Technologies
 
-<img src="https://skillicons.dev/icons?i=html" alt="html5 logo"  />
-<img src="https://skillicons.dev/icons?i=css" alt="css logo"  />
-<img src="https://skillicons.dev/icons?i=javascript" alt="javascript logo"  />
-<img src="https://skillicons.dev/icons?i=typescript" alt="typescript logo"  />
-<img src="https://skillicons.dev/icons?i=react" alt="react logo"  />
-<img src="https://skillicons.dev/icons?i=next" alt="next logo"  />
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"  />
-<img src="https://skillicons.dev/icons?i=vite" alt="vite logo"  />
-<img src="https://skillicons.dev/icons?i=vitest" alt="vitest logo"  />
-<img src="https://skillicons.dev/icons?i=md" alt="md logo"  />
-<img src="https://skillicons.dev/icons?i=sass" alt="sass logo"  />
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap logo"  />
-<img src="https://skillicons.dev/icons?i=jquery" alt="jquery logo"  />
-<img src="https://skillicons.dev/icons?i=codepen" alt="codepen logo"  />
-<img src="https://skillicons.dev/icons?i=git" alt="git logo"  />
-<img src="https://skillicons.dev/icons?i=github" alt="github logo"  />
-<img src="https://skillicons.dev/icons?i=postman" alt="postman logo"  />
-<img src="https://skillicons.dev/icons?i=figma" alt="figma logo"  />
-<img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />
+![html5 logo](https://skillicons.dev/icons?i=html)
+![css logo](https://skillicons.dev/icons?i=css)
+![javascript logo](https://skillicons.dev/icons?i=javascript)
+![typescript logo](https://skillicons.dev/icons?i=typescript)
+![react logo](https://skillicons.dev/icons?i=react)
+![next logo](https://skillicons.dev/icons?i=next)
+![tailwind logo](https://skillicons.dev/icons?i=tailwind)
+![vite logo](https://skillicons.dev/icons?i=vite)
+![vitest logo](https://skillicons.dev/icons?i=vitest)
+![md logo](https://skillicons.dev/icons?i=md)
+![sass logo](https://skillicons.dev/icons?i=sass)
+![bootstrap logo](https://skillicons.dev/icons?i=bootstrap)
+![jquery logo](https://skillicons.dev/icons?i=jquery)
+![codepen logo](https://skillicons.dev/icons?i=codepen)
+![git logo](https://skillicons.dev/icons?i=git)
+![github logo](https://skillicons.dev/icons?i=github)
+![postman logo](https://skillicons.dev/icons?i=postman)
+![figma logo](https://skillicons.dev/icons?i=figma)
+![vscode logo](https://skillicons.dev/icons?i=vscode)
 
 ## Contact
 
