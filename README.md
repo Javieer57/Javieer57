@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate front-end developer from Mexico.</h3>
+# I'm not a regular Dev, I'm a cool Dev ✨
 
-- 🔭 I’m currently working on [REST countries](https://github.com/Javieer57/FEM-countries-static)
+## About me
 
-- 🌱 I’m currently learning **React js**
+I'm a curious person, enjoy building projects with a practical mindset and learning how to write better code.
 
-<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://javieereufracio.com/) -->
+🌱 Currently learning **Vitest**
 
-- 📫 How to reach me **javieer.eufracio[at]gmail.com**
+## Technologies
 
-- ⚡ Fun fact **I'm a web developer and k-pop fanatic.**
+<img src="https://skillicons.dev/icons?i=html" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=css" alt="css logo"  />
+<img src="https://skillicons.dev/icons?i=javascript" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=typescript" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=react" alt="react logo"  />
+<img src="https://skillicons.dev/icons?i=next" alt="next logo"  />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"  />
+<img src="https://skillicons.dev/icons?i=vite" alt="vite logo"  />
+<img src="https://skillicons.dev/icons?i=vitest" alt="vitest logo"  />
+<img src="https://skillicons.dev/icons?i=md" alt="md logo"  />
+<img src="https://skillicons.dev/icons?i=sass" alt="sass logo"  />
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap logo"  />
+<img src="https://skillicons.dev/icons?i=jquery" alt="jquery logo"  />
+<img src="https://skillicons.dev/icons?i=codepen" alt="codepen logo"  />
+<img src="https://skillicons.dev/icons?i=git" alt="git logo"  />
+<img src="https://skillicons.dev/icons?i=github" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=postman" alt="postman logo"  />
+<img src="https://skillicons.dev/icons?i=figma" alt="figma logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode logo"  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/javier-eufracio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdad" height="30" width="40" /></a>
-<a href="https://codepen.io/e_javieer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="javieer57" height="30" width="40" /> </a>
-</p>
+## Contact
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>   <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> </p></p>
-
-
-
-
-
-
+- Email: [javieer.eufracio@gmail.com](mailto:javieer.eufracio@gmail.com)
+- LinkedIn: [Javier Eufracio](https://www.linkedin.com/in/javier-eufracio/)
