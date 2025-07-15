@@ -8,7 +8,7 @@ I'm a curious person, enjoy building projects with a practical mindset and learn
 
 ## Technologies
 
-![My skills: html5, css, javascript, typescript, react, next, tailwind, vite, vitest, md, sass, bootstrap, jquery, codepen, git, github, postman, figma and vscode](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,vite,vitest,md,sass,bootstrap,jquery,codepen,git,github,postman,figma,vscode&perline=9)
+![My skills: html5, css, javascript, typescript, react, next, tailwind, vite, vitest, md, sass, bootstrap, jquery, codepen, git, github, postman, figma and vscode](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,tailwind,vite,vitest,md,sass,bootstrap,jquery,codepen,git,github,postman,figma,vscode&perline=12)
 
 ## Contact
 
