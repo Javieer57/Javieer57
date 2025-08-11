@@ -5,6 +5,7 @@
 I'm a curious person, enjoy building projects with a practical mindset and learning how to write better code.
 
 - 🌱 Currently learning **Vitest**
+- 💻 Currently working on [Tip Calculator App](https://github.com/Javieer57/FEM-tip-calculator-app)
 - 💭 _"How this could be more accesible?"_
 
 ## Technologies
